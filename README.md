@@ -8,11 +8,11 @@ Here is a STUDENT MANAGEMENT system which helps to
   6. search info,
   7. exit.
 
-Main Image:
+#Main Image:
   ![os](https://user-images.githubusercontent.com/98965200/219959887-7ee8a12f-f347-4b59-ab43-dfc87aa393e3.png)
   
   
-Screen Shots:
+#Screen Shots:
 
   ![3](https://user-images.githubusercontent.com/98965200/219960225-8a4cd315-6560-4280-950a-63d91bca450c.png) 
   ![5](https://user-images.githubusercontent.com/98965200/219960246-14106d47-04db-42d7-a215-f060d866e068.png) 
